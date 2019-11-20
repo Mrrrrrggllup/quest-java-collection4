@@ -34,6 +34,7 @@ public class Thanos {
      party.put(captainAmerica, lily);
      party.put(doctorStrange, violet);
      party.put(blackWidow, violet);
+     party.put(thor,rose);
 
         // Hulk, Thor and Scarlet Witch have a Rose
         // Vision has a Tulip
